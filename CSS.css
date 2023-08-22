@@ -1,0 +1,39 @@
+#nav {background-color: gray;
+    border-bottom: 2px solid black}
+
+#a:hover, #a:active, #a {text-decoration: none;
+                    color: black;
+                    font-weight: bold;
+                    font-size: 26pt;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+    border: 2px solid black;
+    }
+
+#list   {background-color: white;
+        border: 2px solid black;
+        color: black;
+        margin-top: -7px;
+        margin-bottom: -7px}
+
+section {background-color: gray;
+        padding: 10px;
+        margin-left: 5%;
+        margin-right: 5%%;
+        width: 90%;
+        margin-top: 2%;
+        height: 2000px}
+
+h1  {font-weight: bold;
+    font-size: 20pt;
+    color: black}
+
+h2  {font-weight: bold;
+    font-size: 16pt;
+    color: black}
+
+p   {color: black;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 14pt}
